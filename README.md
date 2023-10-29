@@ -22,7 +22,7 @@ Implementamos medidas de segurança robustas para garantir que as informações 
 seja à prova de adulterações.
 
 ## Tecnologias Utilizadas:
-[![SkillIcons](https://skillicons.dev/icons?i=java,scala,mysql,github,aws,spring,docker)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=java,scala,mysql,github,heroku,spring,docker)](https://skillicons.dev)<br/>
 
 ## Resultados e Impacto
 O projeto foi bem-sucedido em automatizar a gestão de alunos, melhorar a precisão no registro de presença e incentivar a participação 
